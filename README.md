@@ -42,5 +42,6 @@ Below is a sample Academic Result Chart (ARC) generated using Python and Matplot
 This chart gives a clear overview of a student's academic performance across various subjects.
 
 ## ✨ Author
-Anni — Third Year B.Tech IT Student 💻  
-GitHub: [Your GitHub Profile URL]
+Annimol R.B  
+B.Tech Information Technology (3rd Year)  
+GitHub: https://github.com/annimol1701
