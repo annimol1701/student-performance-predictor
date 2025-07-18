@@ -35,8 +35,8 @@ For example:
 - # 📊 ARC Output
 
 Below is a sample Academic Result Chart (ARC) generated using Python and Matplotlib:
+![Student Performance](student_performance_output.png)
 
-![Student Performance](images/student_performance_arc_output.png)
 
 This chart gives a clear overview of a student's academic performance across various subjects.
 
