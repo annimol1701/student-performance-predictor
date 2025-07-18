@@ -1,28 +1,35 @@
+
 # 🎓 Student Performance Predictor
 
-## 📌 Project Description
-This project predicts student performance...# 
+This project uses machine learning (Logistic Regression) to predict whether a student will pass or fail based on how many hours they study and their attendance percentage.
 
-Predict student pass/fail using **Python** and **Machine Learning**.
+## 📌 Features
+- Simple dataset using pandas
+- Model training using scikit-learn
+- Predicts student success
 
----
+## 📂 File
+- `student_vegeta.py`: Python file that contains all the ML code.
 
-## 💡 What It Does
-This project uses **Logistic Regression** to predict whether a student will pass based on hours studied.
+## 🚀 How to Run
+1. Make sure you have the required libraries:
+   ```
+   pip install pandas scikit-learn
+   ```
+2. Run the script:
+   ```
+   python student_vegeta.py
+   ```
 
----
+## 📊 Example Prediction
+The model predicts based on:
+- `hours_studied`
+- `attendance`
 
-## 📊 Input
-- Example: `Hours Studied = 4.5`
+For example:
+- Input: `6 hours`, `80% attendance`
+- Output: **Pass**
 
-### ✅ Output
-- **Prediction:** Pass
-
----
-
-## ⚙️ Technologies Used
-- Python
-- scikit-learn
-- GitHub
-
----
+## ✨ Author
+Anni — Third Year B.Tech IT Student 💻  
+GitHub: [Your GitHub Profile URL]
