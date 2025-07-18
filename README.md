@@ -2,6 +2,9 @@
 # 🎓 Student Performance Predictor
 
 This project uses machine learning (Logistic Regression) to predict whether a student will pass or fail based on how many hours they study and their attendance percentage.
+## 🎯 Project Goal
+
+The **Student Performance Predictor** aims to visualize and analyze student performance using subject-wise marks. This helps identify strengths and areas of improvement, and lays the foundation for predictive modeling in the future.
 
 ## 📌 Features
 - Simple dataset using pandas
@@ -28,12 +31,8 @@ The model predicts based on:
 
 For example:
 - Input: `6 hours`, `80% attendance`
-- Output: **Pass**
-- ## 🎯 Project Goal
-
-The **Student Performance Predictor** aims to visualize and analyze student performance using subject-wise marks. This helps identify strengths and areas of improvement, and lays the foundation for predictive modeling in the future.
-
-## 📊 ARC Output
+- Output:Pass
+- # 📊 ARC Output
 
 Below is a sample Academic Result Chart (ARC) generated using Python and Matplotlib:
 
