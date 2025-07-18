@@ -29,6 +29,17 @@ The model predicts based on:
 For example:
 - Input: `6 hours`, `80% attendance`
 - Output: **Pass**
+- ## 🎯 Project Goal
+
+The **Student Performance Predictor** aims to visualize and analyze student performance using subject-wise marks. This helps identify strengths and areas of improvement, and lays the foundation for predictive modeling in the future.
+
+## 📊 ARC Output
+
+Below is a sample Academic Result Chart (ARC) generated using Python and Matplotlib:
+
+![Student Performance](images/student_performance_arc_output.png)
+
+This chart gives a clear overview of a student's academic performance across various subjects.
 
 ## ✨ Author
 Anni — Third Year B.Tech IT Student 💻  
